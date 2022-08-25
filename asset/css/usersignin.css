@@ -1,0 +1,32 @@
+* {
+  background-color: #00a2ff; }
+
+.container {
+  margin-top: 5%;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 20px;
+  margin-left: 25%;
+  width: 50%;
+  height: 60vh; }
+
+.emails {
+  margin: 5%; }
+
+.passwords {
+  margin: 5%; }
+
+#email {
+  width: 50%; }
+
+#pass {
+  width: 50%; }
+
+#submitemail {
+  margin-top: 5%;
+  background-color: gold;
+  color: white;
+  width: 15%;
+  height: 30px;
+  border-radius: 20px;
+  cursor: pointer; }

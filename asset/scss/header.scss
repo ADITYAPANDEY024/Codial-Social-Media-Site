@@ -1,0 +1,22 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    padding-bottom: 0;
+    height: 5%;
+    h2{
+        margin: 0;
+        margin-top: 10px;
+        cursor: pointer;
+    }
+    background-color: rgb(42, 103, 184);
+    ul{
+        list-style: none;
+        display: flex;
+        margin: 0;
+        margin-right: 1%;
+        li{
+            margin: 10px;
+        }
+    }
+}
